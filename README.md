@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://polite-kelpie-24ed15.netlify.app/](https://polite-kelpie-24ed15.netlify.app/)
 
-- 💬 Ask me about **HTML5 CSS3 jQuery Bootstrap JavaScript React.js Redux Node.js MongoDB**
+- currently I am learning **HTML5 CSS3 jQuery Bootstrap JavaScript React.js Redux Node.js MongoDB**
 
 - 📫 How to reach me **vj2598054@gmail.com**
 
