@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm vaibhav jadhav</h1>
+<h3>Self-driven, quick starter, passionate programmer with a curious mind who enjoys solving a complex and challenging real-world problems.</h3>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=va1bhav22&label=Profile%20views&color=0e75b6&style=flat" alt="va1bhav22" /> </p>
