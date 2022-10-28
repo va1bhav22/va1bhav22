@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://polite-kelpie-24ed15.netlify.app/](https://vaibhav-jadhav-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://vaibhav-jadhav-portfolio1.netlify.app/](https://vaibhav-jadhav-portfolio1.netlify.app/)
 
 - currently I am learning **HTML5 CSS3 jQuery Bootstrap JavaScript React.js Redux Node.js MongoDB**
 
