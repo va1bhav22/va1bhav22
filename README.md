@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://vaibhav-jadhav-portfolio1.netlify.app/](https://vaibhav-jadhav-portfolio1.netlify.app/)
 
-- currently I am learning **HTML5 CSS3 jQuery Bootstrap JavaScript React.js Redux Node.js MongoDB**
+- currently I am Working On **HTML5 CSS3 jQuery Bootstrap Tailwind-css Next-js Framer-motion Typescript Zustand JavaScript React.js Redux Node.js MongoDB**
 
 - 📫 How to reach me **vj2598054@gmail.com**
 
