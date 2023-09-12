@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=va1bhav22&label=Profile%20views&color=0e75b6&style=flat" alt="va1bhav22" /> </p>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I’m currently Working As **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://vaibhav-jadhav-portfolio1.netlify.app/](https://vaibhav-jadhav-portfolio1.netlify.app/)
 
