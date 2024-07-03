@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently Working As **Full-Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://vaibhav-jadhav-portfolio1.netlify.app/](https://vaibhav-jadhav-portfolio1.netlify.app/)
+- 👨‍💻 All of my projects are available at [vaibhav-jadhav-portfolio1](https://self-web-eta.vercel.app/)
 
 - currently I am Working On **HTML5 CSS3 jQuery Bootstrap Tailwind-css Next-js Framer-motion Typescript Zustand JavaScript React.js Redux Node.js MongoDB**
 
